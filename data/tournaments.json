@@ -1,0 +1,5922 @@
+[
+ {
+  "name": "Radiance Set Release Tournament - 1 Case",
+  "organizer": "Runes & Rift",
+  "date": "2026-10-25",
+  "players": 105,
+  "source": "https://riftdecks.com/riftbound-tournaments/radiance-set-release-tournament-1-case-tournament-decks-18573",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "Lks10",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lillia-bashful-bloom-339792"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "IcrazyFool",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-339793"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "MVG KhủngLongXinhXắn",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ornn-fire-below-the-mountain-339794"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "Redik",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-339795"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Alex Shans",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339796"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Sna1L",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-339797"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Zombro",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-339798"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "AdriDC",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ornn-fire-below-the-mountain-339799"
+   }
+  ],
+  "id": "rd-18573",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Riftbound Online Series Season 5 Week 1",
+  "organizer": "Amzicards",
+  "date": "2026-10-25",
+  "players": 52,
+  "source": "https://riftdecks.com/riftbound-tournaments/riftbound-online-series-season-5-week-1-tournament-decks-18446",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "TeaWing",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "4-0-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kaisa-testing-set-5-338115"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "oORolleOo",
+    "legend": "Fiora, Grand Duelist",
+    "record": "4-0-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-fiora-bigboys-338081"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "m__49_",
+    "legend": "Reksai, Void Burrower",
+    "record": "4-0-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rek-sai-void-burrower-337989"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "Edroil",
+    "legend": "Vex, Gloomist",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-339651"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "g1boNN",
+    "legend": "Riven, The Exile",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-261025-g1bonn-riftboundonlineseries-338052"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Paandy",
+    "legend": "Riven, The Exile",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-338171"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "NoddL",
+    "legend": "Pyke, Bloodharbor Ripper",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-control-pyke-338048"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "187CrackerDealer",
+    "legend": "Riven, The Exile",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-hervn-338118"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Therios",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-yi-338110"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Sollario",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-orni-2-337224"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "PlsHaveMercy",
+    "legend": "Riven, The Exile",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-eine-riven-von-vielen-338125"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "rυmy",
+    "legend": "Riven, The Exile",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ryven-338073"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Jorit",
+    "legend": "Ezreal, Prodigal Explorer",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ez-vendetta-pack-trove-338100"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "X ClumsyCookie X",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-basic-336565"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "itsshippai",
+    "legend": "Sett, The Boss",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-sett-alles-ein-week1-338113"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "FTG Cpt Toaster",
+    "legend": "Rengar, Pridestalker",
+    "record": "2-1-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-336710"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Mo",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "2-1-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-337232"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Kyra",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "2-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-g2-win-worlds-waiting-room-337200"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "crackl1ng",
+    "legend": "Ziggs, Hexplosives Expert",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ziggs-338122"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Kebabocalypse",
+    "legend": "Irelia, Blade Dancer",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-337222"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Miyamoto Musashi",
+    "legend": "Volibear, Relentless Storm",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-dragonvoliwyvern-338116"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Kravos",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kenenenenue-339646"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Kυroh",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kaisa-v1-338104"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "superschnur",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-omen-zerstorer-ist-op-338114"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Demyx",
+    "legend": "Riven, The Exile",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-336932"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "riftkenken",
+    "legend": "Khazix, Voidreaver",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kha-zix-mutating-horror-kha-zix-voidreaver-337189"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "BaiuDerBaer",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mordekaiser-iron-revenant-338117"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "El_Papi",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelyn-338105"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "GerAuron_TCG",
+    "legend": "Volibear, Relentless Storm",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-imported-deck-338084"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "POA Manaphi",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kaisa-radiance-339649"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Laraka",
+    "legend": "Riven, The Exile",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-radiant-riven-337993"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "zenbyte",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kaisa-338075"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Bert",
+    "legend": "Riven, The Exile",
+    "record": "1-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-heron-338101"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "bertilQ",
+    "legend": "Vex, Gloomist",
+    "record": "1-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-www-338126"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "HdK.Fate",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "1-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-by-hdk-fate-338103"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "khachibass",
+    "legend": "Riven, The Exile",
+    "record": "1-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-338102"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Kinzu4",
+    "legend": "Akali, Rogue Assassin",
+    "record": "1-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kali-that-girl-338096"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "laminkl#lam",
+    "legend": "Irelia, Blade Dancer",
+    "record": "1-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-laminkl-338120"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "blank",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "1-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-tourney-336930"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "smeesnlock",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "1-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-momsk-338119"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "D_endrrah",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "1-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mordekase-337261"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Agarking",
+    "legend": "Lucian, Purifier",
+    "record": "1-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lucian-336839"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Shirund",
+    "legend": "Ambessa, Matriarch of War",
+    "record": "1-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ambessa-337992"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Styx",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "1-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-hook-mordy-338079"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Kumpelblase",
+    "legend": "Ekko, Boy Who Shattered Time",
+    "record": "0-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-arcane-season-2-afk-dude-338123"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Paat",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "0-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ya-b0y-yi-338078"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "m3inh0ld",
+    "legend": "Khazix, Voidreaver",
+    "record": "0-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kha-rad-0-1-338124"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Mouha",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "0-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mouha-kaisa-338058"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "eiryklav",
+    "legend": "Riven, The Exile",
+    "record": "0-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-eiryklav-riven-338112"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "FTG Umbera",
+    "legend": "Rengar, Pridestalker",
+    "record": "0-4-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-kata-rad-338055"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "KingRengoII",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "0-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-338082"
+   }
+  ],
+  "id": "rd-18446",
+  "meta": "Radiance"
+ },
+ {
+  "name": "LDXP Sacramento - Radiance-Win-A-Case",
+  "organizer": "Laughing Dragon",
+  "date": "2026-10-25",
+  "players": 38,
+  "source": "https://riftdecks.com/riftbound-tournaments/ldxp-sacramento-radiance-win-a-case-tournament-decks-18570",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "Donovan Fanaselle",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339666"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "Jason Tian",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-339667"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "Robin Nguyen",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-339668"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "EclipseEntay",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-339669"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Allie Hahe",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-339670"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Joshua Delgado",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-339671"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Andrew Moore",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-339672"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Jeremy",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-339673"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Anthony Luu",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-339674"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Michael Nguyen",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-339675"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Aiden Jung",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-339676"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Knight",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-339677"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Mikah Menor",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-reksai-void-burrower-339678"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Dalton Gaither",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339679"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Jeremy San Miguel",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-339680"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Ethan Jaffa",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339681"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Jacob",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-339682"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Jackson Sipila",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-339683"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Gregory salazar",
+    "legend": "Leona, Radiant Dawn",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leona-radiant-dawn-339684"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Darian Abdullah",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339685"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Kyle Nguyen",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-339687"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Aaron Ricafrente",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-339688"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Taylor Landicho",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339689"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Michael Emeofa",
+    "legend": "Ksante, Pride of Nazumah",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ksante-pride-of-nazumah-339690"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Giovanni Ong",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-339691"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "CATL rmdljet",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-339692"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Alvar Vargas",
+    "legend": "Sett, The Boss",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-sett-the-boss-339693"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Michael Andres",
+    "legend": "Ekko, Boy Who Shattered Time",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ekko-boy-who-shattered-time-339694"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "ChuiChuy",
+    "legend": "Orianna, Lady of Clockwork",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-orianna-lady-of-clockwork-339695"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Scooby",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-339696"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Vineas and Ferb#PERRY",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-339697"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Ian St Lawrence",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339698"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Akira Bui",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-339699"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Tyler Kearney",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-339700"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Jesse Smith",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339701"
+   }
+  ],
+  "id": "rd-18570",
+  "meta": "Radiance"
+ },
+ {
+  "name": "LDXP Sacramento - Riftbound Challenge",
+  "organizer": "Laughing Dragon",
+  "date": "2026-10-25",
+  "players": 38,
+  "source": "https://riftdecks.com/riftbound-tournaments/ldxp-sacramento-riftbound-challenge-tournament-decks-18571",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "Vincent Nguyen",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-339702"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "Olin Gardner",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339703"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "David Penaloza",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-diana-scorn-of-the-moon-339704"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "Harrison",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-339705"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Vincent Scharf",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-339706"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Skye P.",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-339707"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Will Jorquera-Sandoval",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-339708"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Ian McCarthy",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-339709"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Calvin",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mordekaiser-iron-revenant-339710"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "victor yau",
+    "legend": "Viktor, Herald of the Arcane",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-viktor-herald-of-the-arcane-339711"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Tingfeng Wan",
+    "legend": "Lux, Lady of Luminosity",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lux-lady-of-luminosity-339712"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Anthony Cerenzio",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-339713"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Donathon Le",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-339714"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Divyae",
+    "legend": "Jarvaniv, Exemplar of Demacia",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jarvaniv-exemplar-of-demacia-339715"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Timothy Noquera Feliciano",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339716"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "NBC Tokenthetoker",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339717"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Ernesto Narez",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-339718"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Daniel Santiago",
+    "legend": "Ambessa, Matriarch of War",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ambessa-matriarch-of-war-339719"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Albert Lee",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-339720"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Axivy",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-339721"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Kendall Haluch",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-339722"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "William K. Asa",
+    "legend": "Master Yi, Wuju Master",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-master-339723"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Maddie Lomonaco",
+    "legend": "Teemo, Swift Scout",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-teemo-swift-scout-339724"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Akira Bui",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-339725"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "NBC NovaRiftbound",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-339726"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Michael Emeofa",
+    "legend": "Ksante, Pride of Nazumah",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ksante-pride-of-nazumah-339727"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Jacob Navarro",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-reksai-void-burrower-339728"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Andrew Moore",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-339729"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Cristian Flores",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339730"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Keith Cole",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339731"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "CATL mickey",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-339732"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Jackson Sipila",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-339733"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Aiden Jung",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-339734"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "TheLegend27",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ornn-fire-below-the-mountain-339735"
+   }
+  ],
+  "id": "rd-18571",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Riftbound: Master Micelion IV",
+  "organizer": "Micelion Games",
+  "date": "2026-10-25",
+  "players": 37,
+  "source": "https://riftdecks.com/riftbound-tournaments/riftbound-master-micelion-iv-tournament-decks-18566",
+  "standings": [
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "MICE JairoM#ESP",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "3-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-338141"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "AndreLars#BR1",
+    "legend": "Riven, The Exile",
+    "record": "3-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-338142"
+   }
+  ],
+  "id": "rd-18566",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Rfitbound Release Tournament - BO1",
+  "organizer": "POPBEES碰头聚玩",
+  "date": "2026-10-25",
+  "players": 12,
+  "source": "https://riftdecks.com/riftbound-tournaments/rfitbound-release-tournament-bo1-tournament-decks-18557",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "哈基虎",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-zhong-su-ao-en-337240"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "PB·冯了个福",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-6-337241"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "蘑菇",
+    "legend": "Viktor, Herald of the Arcane",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-huang-huang-de-wei-337242"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "小星星",
+    "legend": "Leona, Radiant Dawn",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-shu-guang-ce-shi-337243"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "WANGWULI",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-wa-jue-ji-337244"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "逸尘凌虚",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-1-337245"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "lidocaine",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-wa-jue-ji-337246"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "微信用户7TD3lBkk",
+    "legend": "Master Yi, Wuju Master",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-wu-ji-337247"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "ARROGATE",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-wa-337248"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "PB·KhaZix",
+    "legend": "Khazix, Voidreaver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-gai-bian-jiu-shi-hao-shi-337249"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "希望",
+    "legend": "Vex, Gloomist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-fu-wen-337250"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "极狐",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jian-yi-sha-huang-337251"
+   }
+  ],
+  "id": "rd-18557",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Riftbound Showdown 25k - LDXP Sacramento",
+  "organizer": "Laughing Dragon",
+  "date": "2026-10-24",
+  "players": 755,
+  "source": "https://riftdecks.com/riftbound-tournaments/riftbound-showdown-25k-ldxp-sacramento-final-standings-tournament-decks-18559",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "Nam Dang",
+    "legend": "Riven, The Exile",
+    "record": "12-0-2",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-338917"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "Alex Gorica",
+    "legend": "Akali, Rogue Assassin",
+    "record": "11-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-337268"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "Bo Su",
+    "legend": "Riven, The Exile",
+    "record": "10-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337264"
+   },
+   {
+    "rank": 4,
+    "place": "4º",
+    "player": "Arnon",
+    "legend": "Riven, The Exile",
+    "record": "10-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337307"
+   },
+   {
+    "rank": 5,
+    "place": "5º",
+    "player": "Calvin Jin",
+    "legend": "Viktor, Herald of the Arcane",
+    "record": "9-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-viktor-herald-of-the-arcane-337263"
+   },
+   {
+    "rank": 6,
+    "place": "6º",
+    "player": "Capt.Dewgong",
+    "legend": "Riven, The Exile",
+    "record": "9-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-338925"
+   },
+   {
+    "rank": 7,
+    "place": "7º",
+    "player": "Dylan Sumner",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "9-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-337273"
+   },
+   {
+    "rank": 8,
+    "place": "8º",
+    "player": "Daniel Vu",
+    "legend": "Rengar, Pridestalker",
+    "record": "9-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-337297"
+   },
+   {
+    "rank": 9,
+    "place": "9º",
+    "player": "Phi Nguyen",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "9-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-337277"
+   },
+   {
+    "rank": 10,
+    "place": "10º",
+    "player": "Angelo Lirazan",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "9-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-337266"
+   },
+   {
+    "rank": 11,
+    "place": "11º",
+    "player": "Zack",
+    "legend": "Leblanc, Deceiver",
+    "record": "9-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-337276"
+   },
+   {
+    "rank": 12,
+    "place": "12º",
+    "player": "Kekoa Montalbo",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "9-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-337291"
+   },
+   {
+    "rank": 13,
+    "place": "13º",
+    "player": "Diego rodriguez del valle",
+    "legend": "Riven, The Exile",
+    "record": "9-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337283"
+   },
+   {
+    "rank": 14,
+    "place": "14º",
+    "player": "Patrick N Tierney",
+    "legend": "Riven, The Exile",
+    "record": "9-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337288"
+   },
+   {
+    "rank": 15,
+    "place": "15º",
+    "player": "Trenton McBride",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "9-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-337357"
+   },
+   {
+    "rank": 16,
+    "place": "16º",
+    "player": "Zhong Ooi",
+    "legend": "Riven, The Exile",
+    "record": "9-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337325"
+   },
+   {
+    "rank": 17,
+    "place": "17º",
+    "player": "Timothy K",
+    "legend": "Rengar, Pridestalker",
+    "record": "9-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-337373"
+   },
+   {
+    "rank": 18,
+    "place": "18º",
+    "player": "nik",
+    "legend": "Riven, The Exile",
+    "record": "9-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337299"
+   },
+   {
+    "rank": 19,
+    "place": "19º",
+    "player": "Arnold Nadaban",
+    "legend": "Riven, The Exile",
+    "record": "9-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337298"
+   },
+   {
+    "rank": 20,
+    "place": "20º",
+    "player": "LittlePkid",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "8-1-2",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-337271"
+   },
+   {
+    "rank": 21,
+    "place": "21º",
+    "player": "John Riftbound",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "8-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-337279"
+   },
+   {
+    "rank": 22,
+    "place": "22º",
+    "player": "Bodhi Robinson",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "8-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-337306"
+   },
+   {
+    "rank": 23,
+    "place": "23º",
+    "player": "Kameron.TNB",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "8-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-337312"
+   },
+   {
+    "rank": 24,
+    "place": "24º",
+    "player": "Gabriel Fernandez",
+    "legend": "Riven, The Exile",
+    "record": "8-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337317"
+   },
+   {
+    "rank": 25,
+    "place": "25º",
+    "player": "Abe Corrigan",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-337278"
+   },
+   {
+    "rank": 26,
+    "place": "26º",
+    "player": "Joshua L",
+    "legend": "Vex, Gloomist",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-337281"
+   },
+   {
+    "rank": 27,
+    "place": "27º",
+    "player": "Benji302080",
+    "legend": "Jhin, Virtuoso",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jhin-virtuoso-337319"
+   },
+   {
+    "rank": 28,
+    "place": "28º",
+    "player": "Izaak lau",
+    "legend": "Riven, The Exile",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337270"
+   },
+   {
+    "rank": 29,
+    "place": "29º",
+    "player": "Int is win",
+    "legend": "Akali, Rogue Assassin",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-337324"
+   },
+   {
+    "rank": 30,
+    "place": "30º",
+    "player": "Cardinality",
+    "legend": "Rengar, Pridestalker",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-337336"
+   },
+   {
+    "rank": 31,
+    "place": "31º",
+    "player": "Kevin Houde",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-337292"
+   },
+   {
+    "rank": 32,
+    "place": "32º",
+    "player": "Nathan Chan",
+    "legend": "Khazix, Voidreaver",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-khazix-voidreaver-337321"
+   },
+   {
+    "rank": 33,
+    "place": "33º",
+    "player": "Ward Chiang",
+    "legend": "Riven, The Exile",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337280"
+   },
+   {
+    "rank": 34,
+    "place": "34º",
+    "player": "Kenny Tran",
+    "legend": "Nasus, Curator of the Sands",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-nasus-curator-of-the-sands-337272"
+   },
+   {
+    "rank": 35,
+    "place": "35º",
+    "player": "Azirim",
+    "legend": "Riven, The Exile",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337290"
+   },
+   {
+    "rank": 36,
+    "place": "36º",
+    "player": "Andre Arifin",
+    "legend": "Riven, The Exile",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337339"
+   },
+   {
+    "rank": 37,
+    "place": "37º",
+    "player": "anzidmtg",
+    "legend": "Riven, The Exile",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337286"
+   },
+   {
+    "rank": 38,
+    "place": "38º",
+    "player": "Aleksandr Avanessian",
+    "legend": "Riven, The Exile",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337342"
+   },
+   {
+    "rank": 39,
+    "place": "39º",
+    "player": "Matt Groy",
+    "legend": "Riven, The Exile",
+    "record": "7-1-3",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337282"
+   },
+   {
+    "rank": 40,
+    "place": "40º",
+    "player": "Andrew L McDonald",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-emperor-of-the-sands-337377"
+   },
+   {
+    "rank": 41,
+    "place": "41º",
+    "player": "Christian Gharibeh",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-337326"
+   },
+   {
+    "rank": 42,
+    "place": "42º",
+    "player": "RussTCG",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "7-1-3",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-337302"
+   },
+   {
+    "rank": 43,
+    "place": "43º",
+    "player": "R650 Kuako",
+    "legend": "Akali, Rogue Assassin",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-337328"
+   },
+   {
+    "rank": 44,
+    "place": "44º",
+    "player": "Philip Ve",
+    "legend": "Rengar, Pridestalker",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-337341"
+   },
+   {
+    "rank": 45,
+    "place": "45º",
+    "player": "Falo",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-337356"
+   },
+   {
+    "rank": 46,
+    "place": "46º",
+    "player": "Michael Fladung",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lillia-bashful-bloom-337369"
+   },
+   {
+    "rank": 47,
+    "place": "47º",
+    "player": "GYATarina",
+    "legend": "Leblanc, Deceiver",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-337375"
+   },
+   {
+    "rank": 48,
+    "place": "48º",
+    "player": "Ayinde Ross",
+    "legend": "Riven, The Exile",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337345"
+   },
+   {
+    "rank": 49,
+    "place": "49º",
+    "player": "Steven",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-337294"
+   },
+   {
+    "rank": 50,
+    "place": "50º",
+    "player": "Dante Holland",
+    "legend": "Riven, The Exile",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337351"
+   },
+   {
+    "rank": 51,
+    "place": "51º",
+    "player": "Dat Nguyen",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-337384"
+   },
+   {
+    "rank": 52,
+    "place": "52º",
+    "player": "Ramza",
+    "legend": "Riven, The Exile",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337300"
+   },
+   {
+    "rank": 53,
+    "place": "53º",
+    "player": "Christopher Rosse",
+    "legend": "Riven, The Exile",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337392"
+   },
+   {
+    "rank": 54,
+    "place": "54º",
+    "player": "Yishan McNabb",
+    "legend": "Vex, Gloomist",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-337362"
+   },
+   {
+    "rank": 55,
+    "place": "55º",
+    "player": "Nathan Lassen",
+    "legend": "Akali, Rogue Assassin",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-337360"
+   },
+   {
+    "rank": 56,
+    "place": "56º",
+    "player": "MajiinBae",
+    "legend": "Leblanc, Deceiver",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-337396"
+   },
+   {
+    "rank": 57,
+    "place": "57º",
+    "player": "Violetexe",
+    "legend": "Vi, Piltover Enforcer",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vi-piltover-enforcer-337301"
+   },
+   {
+    "rank": 58,
+    "place": "58º",
+    "player": "Lorenzo Tran",
+    "legend": "Master Yi, Wuju Master",
+    "record": "8-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-master-337406"
+   },
+   {
+    "rank": 59,
+    "place": "59º",
+    "player": "Clement Hoang",
+    "legend": "Riven, The Exile",
+    "record": "7-2-2",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337309"
+   },
+   {
+    "rank": 60,
+    "place": "60º",
+    "player": "Tristan Baltazar",
+    "legend": "Ekko, Boy Who Shattered Time",
+    "record": "7-2-2",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ekko-boy-who-shattered-time-337318"
+   },
+   {
+    "rank": 61,
+    "place": "61º",
+    "player": "Francis Cruz",
+    "legend": "Nasus, Curator of the Sands",
+    "record": "7-3-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-nasus-curator-of-the-sands-337305"
+   },
+   {
+    "rank": 62,
+    "place": "62º",
+    "player": "Austin Kenerly",
+    "legend": "Riven, The Exile",
+    "record": "7-3-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337308"
+   },
+   {
+    "rank": 63,
+    "place": "63º",
+    "player": "Michael Absher",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "7-3-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-diana-scorn-of-the-moon-337311"
+   },
+   {
+    "rank": 64,
+    "place": "64º",
+    "player": "Justin Salmon",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "7-3-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-337314"
+   }
+  ],
+  "id": "rd-18559",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Riftbound $10K - SCG CON Hartford",
+  "organizer": "Star City Games",
+  "date": "2026-10-24",
+  "players": 106,
+  "source": "https://riftdecks.com/riftbound-tournaments/riftbound-10k-scg-con-hartford-tournament-decks-18560",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "NicT17",
+    "legend": "Riven, The Exile",
+    "record": "8-0-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337996"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "theslipster",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "8-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-337997"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "St0neForged",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "7-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lillia-bashful-bloom-337998"
+   },
+   {
+    "rank": 4,
+    "place": "4º",
+    "player": "PowersFire",
+    "legend": "Riven, The Exile",
+    "record": "6-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337999"
+   },
+   {
+    "rank": 6,
+    "place": "6º",
+    "player": "Klymb",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "5-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-338000"
+   },
+   {
+    "rank": 7,
+    "place": "7º",
+    "player": "Bloody",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "5-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-338001"
+   },
+   {
+    "rank": 8,
+    "place": "8º",
+    "player": "DThai94",
+    "legend": "Riven, The Exile",
+    "record": "5-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-338002"
+   },
+   {
+    "rank": 11,
+    "place": "11º",
+    "player": "hermesloki",
+    "legend": "Khazix, Voidreaver",
+    "record": "5-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-khazix-voidreaver-338003"
+   },
+   {
+    "rank": 15,
+    "place": "15º",
+    "player": "DeviousPenguin",
+    "legend": "Draven, Glorious Executioner",
+    "record": "5-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-draven-glorious-executioner-338004"
+   },
+   {
+    "rank": 16,
+    "place": "16º",
+    "player": "Joeysnackpack",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "5-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-338005"
+   },
+   {
+    "rank": 18,
+    "place": "18º",
+    "player": "DatHalfbreed",
+    "legend": "Khazix, Voidreaver",
+    "record": "5-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-khazix-voidreaver-338006"
+   },
+   {
+    "rank": 19,
+    "place": "19º",
+    "player": "KouAlter",
+    "legend": "Irelia, Blade Dancer",
+    "record": "5-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-338007"
+   },
+   {
+    "rank": 23,
+    "place": "23º",
+    "player": "InfiniteChances",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "4-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-338008"
+   },
+   {
+    "rank": 26,
+    "place": "26º",
+    "player": "dxzhou",
+    "legend": "Draven, Glorious Executioner",
+    "record": "4-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-draven-glorious-executioner-338009"
+   },
+   {
+    "rank": 27,
+    "place": "27º",
+    "player": "NHoff",
+    "legend": "Irelia, Blade Dancer",
+    "record": "4-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-338010"
+   },
+   {
+    "rank": 33,
+    "place": "33º",
+    "player": "50kParx",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "4-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-338011"
+   },
+   {
+    "rank": 35,
+    "place": "35º",
+    "player": "IAmRushin",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "4-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mordekaiser-iron-revenant-338012"
+   },
+   {
+    "rank": 37,
+    "place": "37º",
+    "player": "wheeler1",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "3-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-nocturne-horrifying-338013"
+   },
+   {
+    "rank": 38,
+    "place": "38º",
+    "player": "QuazMarra",
+    "legend": "Sett, The Boss",
+    "record": "3-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-sett-the-boss-338014"
+   },
+   {
+    "rank": 39,
+    "place": "39º",
+    "player": "dopemeerkat",
+    "legend": "Irelia, Blade Dancer",
+    "record": "3-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-338015"
+   },
+   {
+    "rank": 41,
+    "place": "41º",
+    "player": "43Grizz",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "3-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-338016"
+   },
+   {
+    "rank": 43,
+    "place": "43º",
+    "player": "brazeed",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "3-4-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-338017"
+   },
+   {
+    "rank": 44,
+    "place": "44º",
+    "player": "DARKr3ck0n1ng",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "3-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-338018"
+   },
+   {
+    "rank": 45,
+    "place": "45º",
+    "player": "CinderKing",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "3-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-survivor-338019"
+   },
+   {
+    "rank": 48,
+    "place": "48º",
+    "player": "Bedabes",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "3-4-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-338020"
+   },
+   {
+    "rank": 50,
+    "place": "50º",
+    "player": "Zephyrco",
+    "legend": "Riven, The Exile",
+    "record": "3-4-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-338021"
+   },
+   {
+    "rank": 51,
+    "place": "51º",
+    "player": "innocentwrath",
+    "legend": "Irelia, Blade Dancer",
+    "record": "3-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-338022"
+   },
+   {
+    "rank": 52,
+    "place": "52º",
+    "player": "jjlampro",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "3-4-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-emperor-of-the-sands-338023"
+   },
+   {
+    "rank": 53,
+    "place": "53º",
+    "player": "Spiteful",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "3-4-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-entrancing-338024"
+   },
+   {
+    "rank": 54,
+    "place": "54º",
+    "player": "DomDig",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "3-4-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-338025"
+   },
+   {
+    "rank": 55,
+    "place": "55º",
+    "player": "RossMellow",
+    "legend": "Leblanc, Deceiver",
+    "record": "2-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-338026"
+   },
+   {
+    "rank": 57,
+    "place": "57º",
+    "player": "ekoo11",
+    "legend": "Rengar, Pridestalker",
+    "record": "2-4-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-338027"
+   },
+   {
+    "rank": 58,
+    "place": "58º",
+    "player": "Dracobeans86",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "2-4-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-sovereign-338028"
+   },
+   {
+    "rank": 61,
+    "place": "61º",
+    "player": "Andrew_Letourneau",
+    "legend": "Darius, Hand of Noxus",
+    "record": "2-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-darius-hand-of-noxus-338029"
+   },
+   {
+    "rank": 62,
+    "place": "62º",
+    "player": "SilentJay",
+    "legend": "Rengar, Pridestalker",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-338030"
+   },
+   {
+    "rank": 67,
+    "place": "67º",
+    "player": "Batosiz",
+    "legend": "Vex, Gloomist",
+    "record": "2-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-338031"
+   },
+   {
+    "rank": 68,
+    "place": "68º",
+    "player": "Austen_Zhu",
+    "legend": "Viktor, Herald of the Arcane",
+    "record": "2-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-viktor-herald-of-the-arcane-338032"
+   },
+   {
+    "rank": 70,
+    "place": "70º",
+    "player": "ADC7",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "2-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-338033"
+   },
+   {
+    "rank": 72,
+    "place": "72º",
+    "player": "Shrek2onVHS",
+    "legend": "Lucian, Purifier",
+    "record": "2-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lucian-purifier-338034"
+   },
+   {
+    "rank": 74,
+    "place": "74º",
+    "player": "JooC2",
+    "legend": "Irelia, Blade Dancer",
+    "record": "2-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-338035"
+   },
+   {
+    "rank": 76,
+    "place": "76º",
+    "player": "CoreyMilhouse",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "1-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-338036"
+   },
+   {
+    "rank": 86,
+    "place": "86º",
+    "player": "thaDiff",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "1-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-338038"
+   },
+   {
+    "rank": 91,
+    "place": "91º",
+    "player": "Erwachen",
+    "legend": "Irelia, Blade Dancer",
+    "record": "1-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-338039"
+   },
+   {
+    "rank": 94,
+    "place": "94º",
+    "player": "Raravin",
+    "legend": "Riven, The Exile",
+    "record": "0-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-338040"
+   },
+   {
+    "rank": 102,
+    "place": "102º",
+    "player": "Clear",
+    "legend": "Rengar, Pridestalker",
+    "record": "0-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-survivor-338041"
+   },
+   {
+    "rank": 103,
+    "place": "103º",
+    "player": "venomous93",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "0-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-338042"
+   }
+  ],
+  "id": "rd-18560",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Nexus Night Constructed",
+  "organizer": "LDXP Sacramento",
+  "date": "2026-10-24",
+  "players": 64,
+  "source": "https://riftdecks.com/riftbound-tournaments/nexus-night-constructed-tournament-decks-18550",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "Rajan Nandan",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rek-sai-void-burrower-337225"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "Aleyna Moon",
+    "legend": "Viktor, Herald of the Arcane",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-viktor-herald-of-the-arcane-336843"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "Aiden Jung",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-336844"
+   },
+   {
+    "rank": 4,
+    "place": "4º",
+    "player": "Taro",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336845"
+   },
+   {
+    "rank": 5,
+    "place": "5º",
+    "player": "Big Nonsense",
+    "legend": "Ekko, Boy Who Shattered Time",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ekko-boy-who-shattered-time-336846"
+   },
+   {
+    "rank": 7,
+    "place": "7º",
+    "player": "Evan M Nouchi",
+    "legend": "Rumble, Mechanized Menace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rumble-mechanized-menace-336847"
+   },
+   {
+    "rank": 12,
+    "place": "12º",
+    "player": "Allie Hahe",
+    "legend": "Orianna, Lady of Clockwork",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-orianna-lady-of-clockwork-336848"
+   },
+   {
+    "rank": 13,
+    "place": "13º",
+    "player": "Jordan Neumayer",
+    "legend": "Vi, Piltover Enforcer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vi-piltover-enforcer-336849"
+   },
+   {
+    "rank": 14,
+    "place": "14º",
+    "player": "Fernando Escalante",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-336850"
+   },
+   {
+    "rank": 15,
+    "place": "15º",
+    "player": "Anthony brienzo",
+    "legend": "Fiora, Grand Duelist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-fiora-grand-duelist-336851"
+   },
+   {
+    "rank": 16,
+    "place": "16º",
+    "player": "Ricardo Escalante",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336852"
+   },
+   {
+    "rank": 17,
+    "place": "17º",
+    "player": "Eric Zhang",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336853"
+   },
+   {
+    "rank": 19,
+    "place": "19º",
+    "player": "Nizmosity",
+    "legend": "Pyke, Bloodharbor Ripper",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-pyke-bloodharbor-ripper-336854"
+   },
+   {
+    "rank": 20,
+    "place": "20º",
+    "player": "Raymond Wan",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-336855"
+   },
+   {
+    "rank": 22,
+    "place": "22º",
+    "player": "Ge Yang",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-emperor-of-the-sands-336856"
+   },
+   {
+    "rank": 23,
+    "place": "23º",
+    "player": "Cory Rodgers",
+    "legend": "Jarvaniv, Exemplar of Demacia",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jarvaniv-exemplar-of-demacia-336857"
+   },
+   {
+    "rank": 25,
+    "place": "25º",
+    "player": "Carl / TheBaronBaron",
+    "legend": "Seraphine, Starry-Eyed Songstress",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-seraphine-starry-eyed-songstress-336858"
+   },
+   {
+    "rank": 26,
+    "place": "26º",
+    "player": "Charlie Luo",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-emperor-of-the-sands-336859"
+   },
+   {
+    "rank": 27,
+    "place": "27º",
+    "player": "ryan ochart",
+    "legend": "Zed, Master of Shadows",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-zed-master-of-shadows-336860"
+   },
+   {
+    "rank": 28,
+    "place": "28º",
+    "player": "Alex Chan",
+    "legend": "Vex, Gloomist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-336861"
+   },
+   {
+    "rank": 30,
+    "place": "30º",
+    "player": "Yibu Wu",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-emperor-of-the-sands-336862"
+   },
+   {
+    "rank": 33,
+    "place": "33º",
+    "player": "Jordan Silva",
+    "legend": "Ekko, Boy Who Shattered Time",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ekko-boy-who-shattered-time-336863"
+   },
+   {
+    "rank": 34,
+    "place": "34º",
+    "player": "Aaron Morgan",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336864"
+   },
+   {
+    "rank": 35,
+    "place": "35º",
+    "player": "Liam Hinzman",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336865"
+   },
+   {
+    "rank": 36,
+    "place": "36º",
+    "player": "Clement Hoang",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336866"
+   },
+   {
+    "rank": 39,
+    "place": "39º",
+    "player": "Kao lee",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336867"
+   },
+   {
+    "rank": 43,
+    "place": "43º",
+    "player": "Brian lee",
+    "legend": "Seraphine, Starry-Eyed Songstress",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-seraphine-starry-eyed-songstress-336868"
+   },
+   {
+    "rank": 44,
+    "place": "44º",
+    "player": "Gregory salazar",
+    "legend": "Leona, Radiant Dawn",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leona-radiant-dawn-336869"
+   },
+   {
+    "rank": 46,
+    "place": "46º",
+    "player": "Jared Lively",
+    "legend": "Shen, Eye of Twilight",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-shen-eye-of-twilight-336870"
+   },
+   {
+    "rank": 47,
+    "place": "47º",
+    "player": "Alejandro Delgado Paz",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-emperor-of-the-sands-336871"
+   },
+   {
+    "rank": 49,
+    "place": "49º",
+    "player": "Ranga",
+    "legend": "Jax, Grandmaster at Arms",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jax-grandmaster-at-arms-336872"
+   },
+   {
+    "rank": 52,
+    "place": "52º",
+    "player": "Sigils",
+    "legend": "Ksante, Pride of Nazumah",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ksante-pride-of-nazumah-336873"
+   },
+   {
+    "rank": 54,
+    "place": "54º",
+    "player": "T Vang / OneOfUs",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336874"
+   },
+   {
+    "rank": 57,
+    "place": "57º",
+    "player": "noki",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-336875"
+   },
+   {
+    "rank": 58,
+    "place": "58º",
+    "player": "Donald G Miller",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336876"
+   }
+  ],
+  "id": "rd-18550",
+  "meta": "Radiance"
+ },
+ {
+  "name": "LDXP Sacramento - Radiance-Win-A-Case",
+  "organizer": "Laughing Dragon",
+  "date": "2026-10-24",
+  "players": 25,
+  "source": "https://riftdecks.com/riftbound-tournaments/ldxp-sacramento-radiance-win-a-case-tournament-decks-18565",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "Jason Tian",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-338085"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Vineas and Ferb#PERRY",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-338086"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Joel Zambrano",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-338087"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Taylor Landicho",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-338088"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Cory Rodgers",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-338089"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Tristan Ponceca",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ornn-fire-below-the-mountain-338090"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Evan M Nouchi",
+    "legend": "Rumble, Mechanized Menace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rumble-mechanized-menace-338091"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Grand Huynh",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-diana-scorn-of-the-moon-338092"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Jacob Navarro",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-reksai-void-burrower-338093"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Quentin Wilebski",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-338094"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Alejandro Delgado Paz",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-emperor-of-the-sands-338095"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Kai Krausse",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-338097"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Aleyna Moon",
+    "legend": "Viktor, Herald of the Arcane",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-viktor-herald-of-the-arcane-338098"
+   }
+  ],
+  "id": "rd-18565",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Riftbound BO3 Tournament",
+  "organizer": "卡之域卡牌",
+  "date": "2026-10-24",
+  "players": 16,
+  "source": "https://riftdecks.com/riftbound-tournaments/riftbound-bo3-tournament-tournament-decks-18548",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "菠菠的妙妙卡牌屋",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rui-wen-336816"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "撸蛇",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-wa-jue-ji-336817"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "东东卡牌妙妙屋",
+    "legend": "Orianna, Lady of Clockwork",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ao-li-an-na-336818"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "Neal",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-tie-nan2-336819"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "牌牌tgg",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-zhong-ji-ka-li-a-336820"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "幽贝",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ao-en-336821"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "制衡找拆顺",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-wa-ji-336822"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "天地无痕",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rui-wen-336823"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "老策",
+    "legend": "Jarvaniv, Exemplar of Demacia",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-cao-guo-long-336824"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "D.C 白夜绫",
+    "legend": "Draven, Glorious Executioner",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-de-lai-wen-336825"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "viger",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ka-li-336826"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "空白",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-yao-ji-336827"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "我是水封",
+    "legend": "Vex, Gloomist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-chu-jivex-336828"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "三缄其口",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lei-li-re-dao-336829"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "敛策",
+    "legend": "Nasus, Curator of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-gou-336830"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "时倾",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rui-wen-336831"
+   }
+  ],
+  "id": "rd-18548",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Nexus Night at Magus Games Cebu",
+  "organizer": "Magus Board Games and Hobbies Shop",
+  "date": "2026-10-24",
+  "players": 14,
+  "source": "https://riftdecks.com/riftbound-tournaments/nexus-night-at-magus-games-cebu-tournament-decks-18564",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "WorldApartZ",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "3-0-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-338080"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "Catterpillowz",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-339768"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "zweidesu",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-emperor-of-the-sands-339769"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "AdorofuHitola",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-339770"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Planksu",
+    "legend": "Rumble, Mechanized Menace",
+    "record": "3-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rumble-mechanized-menace-339771"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "crazyico",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-339772"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "RJYTan",
+    "legend": "Viktor, Herald of the Arcane",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-viktor-herald-of-the-arcane-339773"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "vinyl",
+    "legend": "Leblanc, Deceiver",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-339774"
+   }
+  ],
+  "id": "rd-18564",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Le Rift Tour Finale @ Paris Games Week",
+  "organizer": "Paris Games Week",
+  "date": "2026-10-24",
+  "players": 8,
+  "source": "https://riftdecks.com/riftbound-tournaments/le-rift-tour-finale-paris-games-week-tournament-decks-18553",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "nUitWlTuiAZEWIKX",
+    "legend": "Riven, The Exile",
+    "record": "4-0-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336933"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "HXN TEMPETE一些雪",
+    "legend": "Riven, The Exile",
+    "record": "2-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336934"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "JullionFR",
+    "legend": "Riven, The Exile",
+    "record": "1-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336936"
+   },
+   {
+    "rank": 4,
+    "place": "4º",
+    "player": "On Curve Willy",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "1-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336935"
+   },
+   {
+    "rank": 5,
+    "place": "5º",
+    "player": "SlimeGeeko",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "0-1-0",
+    "deck": ""
+   },
+   {
+    "rank": 6,
+    "place": "6º",
+    "player": "quayou",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "0-1-0",
+    "deck": ""
+   },
+   {
+    "rank": 7,
+    "place": "7º",
+    "player": "AA Matmatu",
+    "legend": "Riven, The Exile",
+    "record": "0-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336939"
+   },
+   {
+    "rank": 8,
+    "place": "8º",
+    "player": "TFT Wrath",
+    "legend": "Viktor, Herald of the Arcane",
+    "record": "0-1-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-viktor-herald-of-the-arcane-336940"
+   }
+  ],
+  "id": "rd-18553",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Melbourne Showdown 2026",
+  "organizer": "Let's Play Games",
+  "date": "2026-10-23",
+  "players": 251,
+  "source": "https://riftdecks.com/riftbound-tournaments/melbourne-showdown-2026-final-standings-tournament-decks-18554",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "Soul",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "10-1-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-diana-scorn-of-the-moon-336947"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "his sion",
+    "legend": "Riven, The Exile",
+    "record": "10-1-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336944"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "Nathan",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "8-2-1",
+    "deck": ""
+   },
+   {
+    "rank": 4,
+    "place": "4º",
+    "player": "dunkMATTic",
+    "legend": "Riven, The Exile",
+    "record": "8-2-1",
+    "deck": ""
+   },
+   {
+    "rank": 5,
+    "place": "5º",
+    "player": "Fel Peon U",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "7-2-1",
+    "deck": ""
+   },
+   {
+    "rank": 6,
+    "place": "6º",
+    "player": "Templar",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "7-2-1",
+    "deck": ""
+   },
+   {
+    "rank": 7,
+    "place": "7º",
+    "player": "DingCilia",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "7-2-1",
+    "deck": ""
+   },
+   {
+    "rank": 8,
+    "place": "8º",
+    "player": "Yecob",
+    "legend": "Riven, The Exile",
+    "record": "7-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-336962"
+   },
+   {
+    "rank": 9,
+    "place": "9º",
+    "player": "Slickk",
+    "legend": "Akali, Rogue Assassin",
+    "record": "7-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-336943"
+   },
+   {
+    "rank": 10,
+    "place": "10º",
+    "player": "deb",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "7-2-0",
+    "deck": ""
+   },
+   {
+    "rank": 11,
+    "place": "11º",
+    "player": "phantom diver",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "7-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-diana-scorn-of-the-moon-336955"
+   },
+   {
+    "rank": 12,
+    "place": "12º",
+    "player": "Mord",
+    "legend": "Vex, Gloomist",
+    "record": "7-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-336959"
+   },
+   {
+    "rank": 13,
+    "place": "13º",
+    "player": "steve4",
+    "legend": "Riven, The Exile",
+    "record": "7-2-0",
+    "deck": ""
+   },
+   {
+    "rank": 14,
+    "place": "14º",
+    "player": "Jellyleaf",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "7-2-0",
+    "deck": ""
+   },
+   {
+    "rank": 15,
+    "place": "15º",
+    "player": "Proyoyo",
+    "legend": "Riven, The Exile",
+    "record": "7-2-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-337011"
+   },
+   {
+    "rank": 16,
+    "place": "16º",
+    "player": "oskilla",
+    "legend": "Leblanc, Deceiver",
+    "record": "7-2-0",
+    "deck": ""
+   },
+   {
+    "rank": 17,
+    "place": "17º",
+    "player": "Parisofthesouth",
+    "legend": "Vex, Gloomist",
+    "record": "7-2-0",
+    "deck": ""
+   },
+   {
+    "rank": 18,
+    "place": "18º",
+    "player": "ZeuShy",
+    "legend": "Riven, The Exile",
+    "record": "6-2-1",
+    "deck": ""
+   },
+   {
+    "rank": 19,
+    "place": "19º",
+    "player": "ST3LLA ALPINA",
+    "legend": "Leblanc, Deceiver",
+    "record": "6-2-1",
+    "deck": ""
+   },
+   {
+    "rank": 20,
+    "place": "20º",
+    "player": "R650 vtaki232",
+    "legend": "Riven, The Exile",
+    "record": "6-2-1",
+    "deck": ""
+   },
+   {
+    "rank": 21,
+    "place": "21º",
+    "player": "Deflexx",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "6-2-1",
+    "deck": ""
+   },
+   {
+    "rank": 22,
+    "place": "22º",
+    "player": "Jimmythefish7",
+    "legend": "Orianna, Lady of Clockwork",
+    "record": "6-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-orianna-lady-of-clockwork-337008"
+   },
+   {
+    "rank": 23,
+    "place": "23º",
+    "player": "ahdenny",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "6-2-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-diana-scorn-of-the-moon-336999"
+   },
+   {
+    "rank": 24,
+    "place": "24º",
+    "player": "yvonder",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "6-2-1",
+    "deck": ""
+   },
+   {
+    "rank": 25,
+    "place": "25º",
+    "player": "CBL wags",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 26,
+    "place": "26º",
+    "player": "Sparrows",
+    "legend": "Vex, Gloomist",
+    "record": "6-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-336952"
+   },
+   {
+    "rank": 27,
+    "place": "27º",
+    "player": "XDPOW",
+    "legend": "Pyke, Bloodharbor Ripper",
+    "record": "6-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-pyke-bloodharbor-ripper-336973"
+   },
+   {
+    "rank": 28,
+    "place": "28º",
+    "player": "Mimikyu",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 29,
+    "place": "29º",
+    "player": "Watbie and Poppy",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 30,
+    "place": "30º",
+    "player": "ivee",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 31,
+    "place": "31º",
+    "player": "Phœnix",
+    "legend": "Khazix, Voidreaver",
+    "record": "5-1-3",
+    "deck": ""
+   },
+   {
+    "rank": 32,
+    "place": "32º",
+    "player": "TacoDog",
+    "legend": "Master Yi, Wuju Master",
+    "record": "6-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-master-336961"
+   },
+   {
+    "rank": 33,
+    "place": "33º",
+    "player": "DV Luc",
+    "legend": "Riven, The Exile",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 34,
+    "place": "34º",
+    "player": "Wolflegendrunner",
+    "legend": "Master Yi, Wuju Master",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 35,
+    "place": "35º",
+    "player": "Minjuu",
+    "legend": "Master Yi, Wuju Master",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 36,
+    "place": "36º",
+    "player": "Jovan",
+    "legend": "Nasus, Curator of the Sands",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 37,
+    "place": "37º",
+    "player": "FujitoraHS",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 38,
+    "place": "38º",
+    "player": "Trasterisk",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 39,
+    "place": "39º",
+    "player": "Jash",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "6-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-diana-scorn-of-the-moon-337006"
+   },
+   {
+    "rank": 40,
+    "place": "40º",
+    "player": "lem0n",
+    "legend": "Orianna, Lady of Clockwork",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 41,
+    "place": "41º",
+    "player": "TSQ James",
+    "legend": "Orianna, Lady of Clockwork",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 42,
+    "place": "42º",
+    "player": "Lynts",
+    "legend": "Riven, The Exile",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 43,
+    "place": "43º",
+    "player": "DoubleRainbowZ",
+    "legend": "Riven, The Exile",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 44,
+    "place": "44º",
+    "player": "Uniicorny",
+    "legend": "Poppy, Keeper of the Hammer",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 45,
+    "place": "45º",
+    "player": "TSwizz",
+    "legend": "Poppy, Keeper of the Hammer",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 46,
+    "place": "46º",
+    "player": "SantyMax",
+    "legend": "Ksante, Pride of Nazumah",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 47,
+    "place": "47º",
+    "player": "CBL OmniDmension",
+    "legend": "Shen, Eye of Twilight",
+    "record": "6-3-0",
+    "deck": ""
+   },
+   {
+    "rank": 48,
+    "place": "48º",
+    "player": "Sadnath",
+    "legend": "Ivern, Green Father",
+    "record": "5-1-3",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ivern-green-father-337019"
+   },
+   {
+    "rank": 49,
+    "place": "49º",
+    "player": "LRDN",
+    "legend": "Renekton, Butcher of the Sands",
+    "record": "6-3-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-renekton-butcher-of-the-sands-337081"
+   },
+   {
+    "rank": 50,
+    "place": "50º",
+    "player": "Bourne",
+    "legend": "Vex, Gloomist",
+    "record": "5-2-2",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-337017"
+   },
+   {
+    "rank": 51,
+    "place": "51º",
+    "player": "Boodius",
+    "legend": "Ekko, Boy Who Shattered Time",
+    "record": "5-2-2",
+    "deck": ""
+   },
+   {
+    "rank": 52,
+    "place": "52º",
+    "player": "Jjonak",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "5-2-2",
+    "deck": ""
+   },
+   {
+    "rank": 53,
+    "place": "53º",
+    "player": "danteDTD",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "5-3-1",
+    "deck": ""
+   },
+   {
+    "rank": 54,
+    "place": "54º",
+    "player": "PotatoCrumb",
+    "legend": "Seraphine, Starry-Eyed Songstress",
+    "record": "5-3-1",
+    "deck": ""
+   },
+   {
+    "rank": 55,
+    "place": "55º",
+    "player": "seas0n",
+    "legend": "Mel, Soul's Reflection",
+    "record": "5-3-1",
+    "deck": ""
+   },
+   {
+    "rank": 56,
+    "place": "56º",
+    "player": "DD DEXTERREIGNS",
+    "legend": "Pyke, Bloodharbor Ripper",
+    "record": "5-3-1",
+    "deck": ""
+   },
+   {
+    "rank": 57,
+    "place": "57º",
+    "player": "Vollka",
+    "legend": "Rengar, Pridestalker",
+    "record": "5-3-1",
+    "deck": ""
+   },
+   {
+    "rank": 58,
+    "place": "58º",
+    "player": "Regulus",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "5-3-1",
+    "deck": ""
+   },
+   {
+    "rank": 59,
+    "place": "59º",
+    "player": "Piero",
+    "legend": "Seraphine, Starry-Eyed Songstress",
+    "record": "5-3-1",
+    "deck": ""
+   },
+   {
+    "rank": 60,
+    "place": "60º",
+    "player": "Nimda",
+    "legend": "Zed, Master of Shadows",
+    "record": "5-3-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-zed-master-of-shadows-337032"
+   },
+   {
+    "rank": 61,
+    "place": "61º",
+    "player": "Holynessnight",
+    "legend": "Riven, The Exile",
+    "record": "5-3-1",
+    "deck": ""
+   },
+   {
+    "rank": 62,
+    "place": "62º",
+    "player": "HOGRIDER28",
+    "legend": "Renekton, Butcher of the Sands",
+    "record": "5-3-1",
+    "deck": ""
+   },
+   {
+    "rank": 63,
+    "place": "63º",
+    "player": "CBL Lvl1Litwick",
+    "legend": "Ivern, Green Father",
+    "record": "5-3-1",
+    "deck": ""
+   },
+   {
+    "rank": 64,
+    "place": "64º",
+    "player": "Dragku",
+    "legend": "Ambessa, Matriarch of War",
+    "record": "5-4-0",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ambessa-matriarch-of-war-336953"
+   }
+  ],
+  "id": "rd-18554",
+  "meta": "Radiance"
+ },
+ {
+  "name": "LDXP Sacramento - Radiance-Win-A-Case",
+  "organizer": "LDXP Sacramento",
+  "date": "2026-10-23",
+  "players": 63,
+  "source": "https://riftdecks.com/riftbound-tournaments/ldxp-sacramento-radiance-win-a-case-tournament-decks-18551",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "Dante Holland",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336877"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "Jackson Sipila",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-336878"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "Jim Wei",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-336879"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Frank Zhang",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336880"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Justin Salmon",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336881"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Calvin",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mordekaiser-iron-revenant-336882"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "John Riftbound",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-336883"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Alexandro Morales",
+    "legend": "Ezreal, Prodigal Explorer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ezreal-prodigal-explorer-336884"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "NBC Tokenthetoker",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336885"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Keith Cole",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336886"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Bo Su",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336887"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "NBC Prohell",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336888"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Trystan Irvin",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-336889"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Matthew Adapoe",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336890"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Trenton McBride",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336891"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Azirim",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336892"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Akira Bui",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-336893"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Lenny Lin",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-336894"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Dylan Mangini",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ornn-fire-below-the-mountain-336895"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Int is win",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-336896"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Kenny Tran",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-336897"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Hayden Jeanson",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336898"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Austin Yee",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336899"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Yongsheng Huang",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336900"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "pr3c1sion",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336901"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Vinh Vien",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-336902"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Donathon Le",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-336903"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Eric Maynard",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-336904"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Christian Archbold",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-336905"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "August Janke",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336906"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Hok Sam Tang",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-336907"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Philip Ve",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-336908"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Joshua",
+    "legend": "Vex, Gloomist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-336909"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Alex Gorica",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-336910"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Annie Adler",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-336911"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "MisterRoot",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lillia-bashful-bloom-336912"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Gerardo Uranga",
+    "legend": "Mel, Soul's Reflection",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mel-soul-s-reflection-336913"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Ken-Min Yeoh",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336914"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Jacob Navarro",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-reksai-void-burrower-336915"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "William K. Asa",
+    "legend": "Master Yi, Wuju Master",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-master-336916"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Francisco Villalpando",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-336917"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Brayden Lenzer",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336918"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Nam Dang",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336919"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Dat Nguyen",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336920"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Tyler Kearney",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-336921"
+   }
+  ],
+  "id": "rd-18551",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Riftbound BO3 Tournament",
+  "organizer": "沉淀桌游馆",
+  "date": "2026-10-23",
+  "players": 14,
+  "source": "https://riftdecks.com/riftbound-tournaments/riftbound-bo3-tournament-tournament-decks-18522",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "apple",
+    "legend": "Vex, Gloomist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vgs-336744"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "残暴香蕉大王",
+    "legend": "Ezreal, Prodigal Explorer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jiang-bei-ban-hui-chen-dian-336745"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "梅花十三",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-chao-de-336746"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "南风吹梦",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-yao-ji-336747"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "开天辟地超级串子王皮蛋",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-tian-pi-de-chuan-zi-wang-jiao-yue-336748"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "红豆橘子",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-dong-ge-a-ka-li-336749"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "7小辰",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-wu-ka-pian-kai-nan-336750"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "波比",
+    "legend": "Seraphine, Starry-Eyed Songstress",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-sa-lei-fen-ni-chuan-qi-jin-sheng-336751"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "召唤师zncpcuX5",
+    "legend": "Fiora, Grand Duelist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jian-ji-336752"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "ppx",
+    "legend": "Volibear, Relentless Storm",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-xiong-336753"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "年大人",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-bao-li-336754"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "贝蒂小野猫",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-dao-mei-336755"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "试炼，开幕",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-yao-ji-336756"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "贝蒂小熊猫",
+    "legend": "Ivern, Green Father",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-cui-shen-336757"
+   }
+  ],
+  "id": "rd-18522",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Radiance First Match Set release tournament (Huage TCG)",
+  "organizer": "桦哥卡牌TCG",
+  "date": "2026-10-23",
+  "players": 12,
+  "source": "https://riftdecks.com/riftbound-tournaments/radiance-first-match-set-release-tournament-huage-tcg-tournament-decks-18469",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "桦哥-咕嘎凑友希那",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-da-niao-336670"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "DOOM",
+    "legend": "Master Yi, Wuju Master",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-js-336671"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "猫猫大加农",
+    "legend": "Ambessa, Matriarch of War",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lang-mu-336672"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "风又音理",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-shi-zi-gou-336673"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Nish",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-pokemon-336674"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "abiao",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-gao-su-jiu-yuan-jian-sheng-336675"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "救赎",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-yao-ji-jiu-shu-336676"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "星焱-澄中",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-wen-gu-er-zhi-xin-336677"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "桦哥-十日目民",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-1-336678"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "潮汕揭阳当幸福来敲门",
+    "legend": "Khazix, Voidreaver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-tang-lang-bu-chan-huang-que-zai-hou-336679"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "梦想哥",
+    "legend": "Volibear, Relentless Storm",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-long-xiong-336680"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Jhon",
+    "legend": "Ziggs, Hexplosives Expert",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-boom-336681"
+   }
+  ],
+  "id": "rd-18469",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Play2Learn Nexus Nights",
+  "organizer": "Play 2 Learn",
+  "date": "2026-10-23",
+  "players": 10,
+  "source": "https://riftdecks.com/riftbound-tournaments/play2learn-nexus-nights-tournament-decks-18562",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "WorldApartZ",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "3-0-1",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-338064"
+   }
+  ],
+  "id": "rd-18562",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Club9 Riftbound Clash #3",
+  "organizer": "Club9",
+  "date": "2026-10-23",
+  "players": 9,
+  "source": "https://riftdecks.com/riftbound-tournaments/club9-riftbound-clash-3-tournament-decks-18468",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "el",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336652"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "Jazzyjames98",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336653"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "IMMASCOOPYOU",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-336654"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "Navi",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-336655"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Gant",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-336656"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "txra",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336657"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "ColonelXanders",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336658"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "limerick1820",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336659"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Darkw1ng",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mordekaiser-iron-revenant-336660"
+   }
+  ],
+  "id": "rd-18468",
+  "meta": "Radiance"
+ },
+ {
+  "name": "On Demand Trials #39 @ Riftbound Showdown Series 25K",
+  "organizer": "Riftbound Showdown Series 25K",
+  "date": "2026-10-23",
+  "players": 8,
+  "source": "https://riftdecks.com/riftbound-tournaments/on-demand-trials-39-riftbound-showdown-series-25k-tournament-decks-18510",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "nik",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336724"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Jared Lively",
+    "legend": "Shen, Eye of Twilight",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-shen-eye-of-twilight-336725"
+   }
+  ],
+  "id": "rd-18510",
+  "meta": "Radiance"
+ },
+ {
+  "name": "On Demand Trials #40 @ Riftbound Showdown Series 25K",
+  "organizer": "Riftbound Showdown Series 25K",
+  "date": "2026-10-23",
+  "players": 8,
+  "source": "https://riftdecks.com/riftbound-tournaments/on-demand-trials-40-riftbound-showdown-series-25k-tournament-decks-18511",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "Darian Abdullah",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336726"
+   }
+  ],
+  "id": "rd-18511",
+  "meta": "Radiance"
+ },
+ {
+  "name": "On Demand Trials #3 @ Riftbound Showdown Series 25K",
+  "organizer": "Riftbound Showdown Series 25K",
+  "date": "2026-10-23",
+  "players": 8,
+  "source": "https://riftdecks.com/riftbound-tournaments/on-demand-trials-3-riftbound-showdown-series-25k-tournament-decks-18482",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "Joshua",
+    "legend": "Vex, Gloomist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-336720"
+   }
+  ],
+  "id": "rd-18482",
+  "meta": "Radiance"
+ },
+ {
+  "name": "On Demand Trials #33 @ Riftbound Showdown Series 25K",
+  "organizer": "Riftbound Showdown Series 25K",
+  "date": "2026-10-23",
+  "players": 8,
+  "source": "https://riftdecks.com/riftbound-tournaments/on-demand-trials-33-riftbound-showdown-series-25k-tournament-decks-18502",
+  "standings": [
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "MisterRoot",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lillia-bashful-bloom-336721"
+   }
+  ],
+  "id": "rd-18502",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Riftbound BO3 Tournament",
+  "organizer": "沉淀桌游馆",
+  "date": "2026-10-21",
+  "players": 6,
+  "source": "https://riftdecks.com/riftbound-tournaments/riftbound-bo3-tournament-tournament-decks-18462",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "初空神",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jian-sheng-336554"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "栞那",
+    "legend": "Vex, Gloomist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-zi-bao-duo-long-336555"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "开天辟地超级串子王皮蛋",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-tian-pi-de-chuan-zi-wang-jiao-yue-336556"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "Rapeter",
+    "legend": "Fiora, Grand Duelist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-niu-bijj-336557"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "残暴香蕉大王",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lie-tou-lie-tou-336558"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "波比",
+    "legend": "Seraphine, Starry-Eyed Songstress",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-sa-lei-fen-ni-chuan-qi-jin-sheng-336559"
+   }
+  ],
+  "id": "rd-18462",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Fast Cup Radiance #2",
+  "organizer": "Circle TCG",
+  "date": "2026-10-20",
+  "players": 21,
+  "source": "https://riftdecks.com/riftbound-tournaments/fast-cup-radiance-2-tournament-decks-18458",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "OC adriex9",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336503"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "Despokin",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-336504"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "Pierre W",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-emperor-of-the-sands-336505"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "Peng0o",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-336506"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Bastos",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-336507"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Jinora",
+    "legend": "Orianna, Lady of Clockwork",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-orianna-lady-of-clockwork-336508"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "FlashShad0w",
+    "legend": "Teemo, Swift Scout",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-teemo-swift-scout-336509"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "AA Frobei",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-reksai-void-burrower-336510"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Misterpandawan",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336511"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "misterpotatoe",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-336512"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Nera",
+    "legend": "Sivir, Battle Mistress",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-sivir-battle-mistress-336513"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Malaskillia",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-336514"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Amelune",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-diana-scorn-of-the-moon-336515"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "AA Wesshh",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-reksai-void-burrower-336516"
+   }
+  ],
+  "id": "rd-18458",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Riftbound BO3 Tournament",
+  "organizer": "沉淀桌游馆",
+  "date": "2026-10-20",
+  "players": 10,
+  "source": "https://riftdecks.com/riftbound-tournaments/riftbound-bo3-tournament-tournament-decks-18459",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "南风吹梦",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jiao-yue-336522"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "公交车",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-zhen-sha-huang-336523"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "晓月",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-nan-336524"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "波比",
+    "legend": "Seraphine, Starry-Eyed Songstress",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-sa-lei-fen-ni-chuan-qi-jin-sheng-336525"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "红豆橘子",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-wa-jue-ji-336526"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "残暴香蕉大王",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lie-tou-lie-tou-336527"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Rapeter",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-wu-nao-zi-336528"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "贝蒂小熊猫",
+    "legend": "Draven, Glorious Executioner",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-de-zi-336529"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "开天辟地超级串子王皮蛋",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-tian-pi-de-chuan-zi-wang-jiao-yue-336530"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "做人",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-dao-mei-336531"
+   }
+  ],
+  "id": "rd-18459",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Runes & Rift Open 25",
+  "organizer": "Runes And Rift",
+  "date": "2026-10-19",
+  "players": 22,
+  "source": "https://riftdecks.com/riftbound-tournaments/runes-rift-open-25-tournament-decks-18453",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "Simple",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336390"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "Art3mis",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336387"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "AA Romomo",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336388"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "McBiggs",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336389"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "DGmanisch",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336391"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Yaw",
+    "legend": "Ekko, Boy Who Shattered Time",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ekko-boy-who-shattered-time-336392"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Newrof",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336393"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Matmatu",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336394"
+   }
+  ],
+  "id": "rd-18453",
+  "meta": "Radiance"
+ },
+ {
+  "name": "NovaRiftbound's $2,000 Online Showdown 5",
+  "organizer": "NovaRiftbound",
+  "date": "2026-10-18",
+  "players": 74,
+  "source": "https://riftdecks.com/riftbound-tournaments/novariftbound-s-2-000-online-showdown-5-tournament-decks-18449",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "Sithis",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336284"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "YBE piorro",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336285"
+   },
+   {
+    "rank": 4,
+    "place": "4º",
+    "player": "Connor Morganfield",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-336287"
+   },
+   {
+    "rank": 7,
+    "place": "7º",
+    "player": "SwiftDuelist",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-336290"
+   },
+   {
+    "rank": 8,
+    "place": "8º",
+    "player": "쓰레기캔",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336291"
+   },
+   {
+    "rank": 11,
+    "place": "11º",
+    "player": "NRW sorry",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336294"
+   },
+   {
+    "rank": 12,
+    "place": "12º",
+    "player": "IHATECOFFEE",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336295"
+   },
+   {
+    "rank": 13,
+    "place": "13º",
+    "player": "Andrea Miraglia",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336296"
+   },
+   {
+    "rank": 14,
+    "place": "14º",
+    "player": "LittlePkid",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336297"
+   },
+   {
+    "rank": 16,
+    "place": "16º",
+    "player": "FT Bludei",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336299"
+   },
+   {
+    "rank": 17,
+    "place": "17º",
+    "player": "Mello Gambit",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336300"
+   },
+   {
+    "rank": 18,
+    "place": "18º",
+    "player": "Jakob Fröhlich",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336301"
+   },
+   {
+    "rank": 19,
+    "place": "19º",
+    "player": "the third one",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-reksai-void-burrower-336302"
+   },
+   {
+    "rank": 20,
+    "place": "20º",
+    "player": "YBE Chciwy",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336303"
+   },
+   {
+    "rank": 21,
+    "place": "21º",
+    "player": "Billy Willing",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-336304"
+   },
+   {
+    "rank": 22,
+    "place": "22º",
+    "player": "PuresolTCG",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336305"
+   },
+   {
+    "rank": 23,
+    "place": "23º",
+    "player": "Prime",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336306"
+   },
+   {
+    "rank": 24,
+    "place": "24º",
+    "player": "Aaryn Miller",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-336307"
+   },
+   {
+    "rank": 25,
+    "place": "25º",
+    "player": "Michal Jozefek",
+    "legend": "Fiora, Grand Duelist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-fiora-grand-duelist-336308"
+   },
+   {
+    "rank": 26,
+    "place": "26º",
+    "player": "Fracture",
+    "legend": "Vex, Gloomist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-336309"
+   },
+   {
+    "rank": 29,
+    "place": "29º",
+    "player": "Luke Maggio",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-emperor-of-the-sands-336312"
+   },
+   {
+    "rank": 30,
+    "place": "30º",
+    "player": "StarWOrso",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336313"
+   },
+   {
+    "rank": 31,
+    "place": "31º",
+    "player": "Goombayusi",
+    "legend": "Fiora, Grand Duelist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-fiora-grand-duelist-336314"
+   },
+   {
+    "rank": 32,
+    "place": "32º",
+    "player": "Reset",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-336315"
+   },
+   {
+    "rank": 33,
+    "place": "33º",
+    "player": "Bonyad Nouri",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-336316"
+   },
+   {
+    "rank": 34,
+    "place": "34º",
+    "player": "Skylar Casanova Mulder",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mordekaiser-iron-revenant-336317"
+   },
+   {
+    "rank": 36,
+    "place": "36º",
+    "player": "Josh Adler",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-336319"
+   },
+   {
+    "rank": 37,
+    "place": "37º",
+    "player": "FF NoRoleModel",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-336320"
+   },
+   {
+    "rank": 38,
+    "place": "38º",
+    "player": "YBE cziker",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336321"
+   },
+   {
+    "rank": 39,
+    "place": "39º",
+    "player": "Jun Akane",
+    "legend": "Ekko, Boy Who Shattered Time",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ekko-boy-who-shattered-time-336322"
+   },
+   {
+    "rank": 40,
+    "place": "40º",
+    "player": "I'pha Xerah",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-336323"
+   },
+   {
+    "rank": 41,
+    "place": "41º",
+    "player": "Habib Sahraoui",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336324"
+   },
+   {
+    "rank": 42,
+    "place": "42º",
+    "player": "TSS Daemon X",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336325"
+   },
+   {
+    "rank": 43,
+    "place": "43º",
+    "player": "Michael Mann",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336326"
+   },
+   {
+    "rank": 44,
+    "place": "44º",
+    "player": "pr3c1sion",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336327"
+   },
+   {
+    "rank": 46,
+    "place": "46º",
+    "player": "Kyne",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336329"
+   },
+   {
+    "rank": 47,
+    "place": "47º",
+    "player": "YBE Luddrox",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336330"
+   },
+   {
+    "rank": 48,
+    "place": "48º",
+    "player": "Prohell",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336331"
+   },
+   {
+    "rank": 49,
+    "place": "49º",
+    "player": "Carmelo D'Antone",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336332"
+   },
+   {
+    "rank": 50,
+    "place": "50º",
+    "player": "Mobmonster",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336333"
+   },
+   {
+    "rank": 51,
+    "place": "51º",
+    "player": "Derpinox",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336334"
+   },
+   {
+    "rank": 52,
+    "place": "52º",
+    "player": "Sean Gallagher",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336335"
+   },
+   {
+    "rank": 53,
+    "place": "53º",
+    "player": "Julio",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336336"
+   },
+   {
+    "rank": 54,
+    "place": "54º",
+    "player": "Parker",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336337"
+   },
+   {
+    "rank": 55,
+    "place": "55º",
+    "player": "Dan Bridges",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336338"
+   },
+   {
+    "rank": 56,
+    "place": "56º",
+    "player": "NBC Tokenthetoker",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336339"
+   },
+   {
+    "rank": 57,
+    "place": "57º",
+    "player": "Mauricio Aliaga",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ornn-fire-below-the-mountain-336340"
+   },
+   {
+    "rank": 58,
+    "place": "58º",
+    "player": "Adam kuykendall",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336341"
+   },
+   {
+    "rank": 59,
+    "place": "59º",
+    "player": "Murked",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336342"
+   },
+   {
+    "rank": 60,
+    "place": "60º",
+    "player": "Melody",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-336343"
+   },
+   {
+    "rank": 61,
+    "place": "61º",
+    "player": "Samuel Oishi",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336344"
+   },
+   {
+    "rank": 62,
+    "place": "62º",
+    "player": "Christian Hart",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-emperor-of-the-sands-336345"
+   },
+   {
+    "rank": 63,
+    "place": "63º",
+    "player": "billy readman",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mordekaiser-iron-revenant-336346"
+   },
+   {
+    "rank": 64,
+    "place": "64º",
+    "player": "KimchiHo",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-336347"
+   },
+   {
+    "rank": 65,
+    "place": "65º",
+    "player": "Ryan Saxby",
+    "legend": "Ezreal, Prodigal Explorer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ezreal-prodigal-explorer-336348"
+   },
+   {
+    "rank": 66,
+    "place": "66º",
+    "player": "Matteo Bruno",
+    "legend": "Kai'sa, Daughter of the Void",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kai-sa-daughter-of-the-void-336349"
+   },
+   {
+    "rank": 67,
+    "place": "67º",
+    "player": "SBG Frani",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336350"
+   },
+   {
+    "rank": 68,
+    "place": "68º",
+    "player": "FT Gloom",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-336351"
+   },
+   {
+    "rank": 69,
+    "place": "69º",
+    "player": "Matthew Brookes",
+    "legend": "Ziggs, Hexplosives Expert",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ziggs-hexplosives-expert-336352"
+   },
+   {
+    "rank": 71,
+    "place": "71º",
+    "player": "Douglas Knapp",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mordekaiser-iron-revenant-336354"
+   },
+   {
+    "rank": 72,
+    "place": "72º",
+    "player": "Ethan Jiang",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-336355"
+   },
+   {
+    "rank": 73,
+    "place": "73º",
+    "player": "ST Green Lotus",
+    "legend": "Vex, Gloomist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-336356"
+   }
+  ],
+  "id": "rd-18449",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Fast Cup Radiance #1",
+  "organizer": "Circle TCG",
+  "date": "2026-10-13",
+  "players": 13,
+  "source": "https://riftdecks.com/riftbound-tournaments/fast-cup-radiance-1-tournament-decks-18393",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "misterpotatoe",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-335978"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "Peng0o",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-335979"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "AA Claedeus",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-335980"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "Pierre W",
+    "legend": "Azir, Emperor of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-azir-emperor-of-the-sands-335981"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "OC adriex9",
+    "legend": "Darius, Hand of Noxus",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-darius-hand-of-noxus-335982"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Piou",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-335983"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "OC moonL",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-335984"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Misterpandawan",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-335985"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Commentary",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-335986"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "ShinFenix",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-335987"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "AA Frobei",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mordekaiser-iron-revenant-335988"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "LedgerH",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-335989"
+   }
+  ],
+  "id": "rd-18393",
+  "meta": "Radiance"
+ },
+ {
+  "name": "League Cup #4 — Cycle 3",
+  "organizer": "Circle TCG",
+  "date": "2026-10-12",
+  "players": 34,
+  "source": "https://riftdecks.com/riftbound-tournaments/league-cup-4-cycle-3-tournament-decks-18399",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "AA Matmatu",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336109"
+   },
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "[GCT] Amendil",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-336110"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "Saloupio",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336111"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "Misterpandawan",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-336112"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Piou",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-336113"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "astar",
+    "legend": "Ezreal, Prodigal Explorer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ezreal-prodigal-explorer-336114"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "FlashShad0w",
+    "legend": "Teemo, Swift Scout",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-teemo-swift-scout-336115"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Goh",
+    "legend": "Darius, Hand of Noxus",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-darius-hand-of-noxus-336116"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "GCT Maxentivs",
+    "legend": "Seraphine, Starry-Eyed Songstress",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-seraphine-starry-eyed-songstress-336117"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "HiTeN",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-336118"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Nerko",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-diana-scorn-of-the-moon-336119"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Ender",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-336120"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "KévinG",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-reksai-void-burrower-336121"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "TheNicestSheep",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-reksai-void-burrower-336122"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "misterpotatoe",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-336123"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "LedgerH",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-336124"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Peng0o",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-336125"
+   }
+  ],
+  "id": "rd-18399",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Haven Online Challenger Series #5 (Radiance Preview)",
+  "organizer": "GG Haven",
+  "date": "2026-10-11",
+  "players": 50,
+  "source": "https://riftdecks.com/riftbound-tournaments/haven-online-challenger-series-5-radiance-preview-tournament-decks-18216",
+  "standings": [
+   {
+    "rank": 1,
+    "place": "1º",
+    "player": "flolcsc",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-330823"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "Sithis",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-333356"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "TheNameIsTeddy",
+    "legend": "Volibear, Relentless Storm",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-volibear-relentless-storm-333527"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "terrencem",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-330824"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "skuamato",
+    "legend": "Ezreal, Prodigal Explorer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ezreal-prodigal-explorer-330825"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "weibo.die9131",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-330826"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "georgi6780",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-330827"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "meiz2342",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-330828"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Marzone.",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-333528"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "judo01yin",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-330829"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "charlie12380",
+    "legend": "Ekko, Boy Who Shattered Time",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ekko-boy-who-shattered-time-330830"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "brino0230",
+    "legend": "Volibear, Relentless Storm",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-volibear-relentless-storm-330831"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Weatherboyy",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-333529"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Melodies",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-333530"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "ovelhq",
+    "legend": "Lucian, Purifier",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lucian-purifier-330832"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "simpleidot",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-330833"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "anerdyrapper",
+    "legend": "Leblanc, Deceiver",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leblanc-deceiver-330834"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "SD / Fxrtify",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-333531"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "akakakakkaaka",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lillia-bashful-bloom-330835"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "ratspootin",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-330836"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "gamertattoos",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mordekaiser-iron-revenant-330837"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Vanessed",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mordekaiser-iron-revenant-330838"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Nomsensical",
+    "legend": "Volibear, Relentless Storm",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-volibear-relentless-storm-333532"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "purplepanda677",
+    "legend": "Ksante, Pride of Nazumah",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ksante-pride-of-nazumah-330839"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Joderon",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-333533"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "paddlll",
+    "legend": "Diana, Scorn of the Moon",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-diana-scorn-of-the-moon-330840"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "falconforcex.",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-330841"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Quarcane",
+    "legend": "Leona, Radiant Dawn",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leona-radiant-dawn-333534"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "nogamenocesco",
+    "legend": "Leona, Radiant Dawn",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leona-radiant-dawn-330842"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Gastaldon",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-333535"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Ruel",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-333536"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Assturosso",
+    "legend": "Orianna, Lady of Clockwork",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-orianna-lady-of-clockwork-333538"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "sholmes",
+    "legend": "Viktor, Herald of the Arcane",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-viktor-herald-of-the-arcane-330843"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Rity10",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-333539"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Samabr",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-333540"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "humblegreek",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-330844"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Kurva",
+    "legend": "Riven, The Exile",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-riven-the-exile-333541"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "joaovictorca_",
+    "legend": "Master Yi, Wuju Bladesman",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-bladesman-330845"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "fukcin",
+    "legend": "Irelia, Blade Dancer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-irelia-blade-dancer-330846"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Brimstephens",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-333542"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "claedeusfr",
+    "legend": "Rengar, Pridestalker",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rengar-pridestalker-330847"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Pengeagle",
+    "legend": "Ahri, Nine-Tailed Fox",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ahri-nine-tailed-fox-333543"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "christianhart",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lillia-bashful-bloom-330848"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "stompyrobo",
+    "legend": "Jarvaniv, Exemplar of Demacia",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jarvaniv-exemplar-of-demacia-330849"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "xamdraw",
+    "legend": "Ziggs, Hexplosives Expert",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ziggs-hexplosives-expert-330850"
+   }
+  ],
+  "id": "rd-18216",
+  "meta": "Radiance"
+ },
+ {
+  "name": "Aserty's Creator Invitational",
+  "organizer": "Aserty",
+  "date": "2026-10-10",
+  "players": 61,
+  "source": "https://riftdecks.com/riftbound-tournaments/aserty-s-creator-invitational-tournament-decks-18193",
+  "standings": [
+   {
+    "rank": 2,
+    "place": "2º",
+    "player": "Kylen",
+    "legend": "Ekko, Boy Who Shattered Time",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ekko-boy-who-shattered-time-326699"
+   },
+   {
+    "rank": 3,
+    "place": "3º",
+    "player": "Keishun",
+    "legend": "Viktor, Herald of the Arcane",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-viktor-herald-of-the-arcane-326700"
+   },
+   {
+    "rank": 4,
+    "place": "Top4",
+    "player": "Oryzias /",
+    "legend": "Volibear, Relentless Storm",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-volibear-relentless-storm-326701"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Koko",
+    "legend": "Jinx, Loose Cannon",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jinx-loose-cannon-326702"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Violetexe",
+    "legend": "Vi, Piltover Enforcer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vi-piltover-enforcer-326703"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "Ame",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-326704"
+   },
+   {
+    "rank": 8,
+    "place": "Top8",
+    "player": "xSimo",
+    "legend": "Mordekaiser, Iron Revenant",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mordekaiser-iron-revenant-326705"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "TMac",
+    "legend": "Ezreal, Prodigal Explorer",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ezreal-prodigal-explorer-326706"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "Rakuula",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-326707"
+   },
+   {
+    "rank": 16,
+    "place": "Top16",
+    "player": "MaskedSwan",
+    "legend": "Leona, Radiant Dawn",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-leona-radiant-dawn-326708"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "xteenytiny",
+    "legend": "Lillia, Bashful Bloom",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-lillia-bashful-bloom-326709"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Rift Pulse",
+    "legend": "Reksai, Void Burrower",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-reksai-void-burrower-326710"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Poro Pope",
+    "legend": "Orianna, Lady of Clockwork",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-orianna-lady-of-clockwork-326711"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Kieron Marshall",
+    "legend": "Ivern, Green Father",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ivern-green-father-326712"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "TN_Sensei",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-326713"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Mylo",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-326714"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Kirisin",
+    "legend": "Vex, Gloomist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-326715"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Jak14",
+    "legend": "Ksante, Pride of Nazumah",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ksante-pride-of-nazumah-326716"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Ghael Winds",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-326717"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "AverageCapy",
+    "legend": "Garen, Might of Demacia",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-garen-might-of-demacia-326718"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Mom Sky",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-326719"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Ritual_TCG",
+    "legend": "Akali, Rogue Assassin",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-akali-rogue-assassin-326720"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "HyBriiDTCG",
+    "legend": "Jayce, Defender of Tomorrow",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jayce-defender-of-tomorrow-326721"
+   },
+   {
+    "rank": 32,
+    "place": "Top32",
+    "player": "Maddie - Judge_Azooka",
+    "legend": "Miss Fortune, Bounty Hunter",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-miss-fortune-bounty-hunter-326722"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "NexusNightNith",
+    "legend": "Master Yi, Wuju Master",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-master-yi-wuju-master-326723"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Sayonara Ame",
+    "legend": "Garen, Might of Demacia",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-garen-might-of-demacia-326724"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "PinkWard",
+    "legend": "Evelynn, Agony's Embrace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-evelynn-agony-s-embrace-326725"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "btwblue",
+    "legend": "Ahri, Nine-Tailed Fox",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ahri-nine-tailed-fox-326726"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Glitched Goober",
+    "legend": "Vex, Gloomist",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-326727"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Pentestag",
+    "legend": "Rumble, Mechanized Menace",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-rumble-mechanized-menace-326728"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Keywi",
+    "legend": "Draven, Glorious Executioner",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-draven-glorious-executioner-326729"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Hazerlazer",
+    "legend": "Nasus, Curator of the Sands",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-nasus-curator-of-the-sands-326730"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "frankworthy",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ornn-fire-below-the-mountain-326731"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Crono",
+    "legend": "Ornn, Fire Below the Mountain",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-ornn-fire-below-the-mountain-326732"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Tekku Chan-G",
+    "legend": "Jarvaniv, Exemplar of Demacia",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-jarvaniv-exemplar-of-demacia-326733"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Honeynex Alex",
+    "legend": "Miss Fortune, Bounty Hunter",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-miss-fortune-bounty-hunter-326734"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Syn",
+    "legend": "Annie, Dark Child",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-annie-dark-child-326735"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "Sentried",
+    "legend": "Teemo, Swift Scout",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-teemo-swift-scout-326736"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "_NxBadger_",
+    "legend": "Mel, Soul's Reflection",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-mel-soul-s-reflection-326737"
+   },
+   {
+    "rank": 64,
+    "place": "Top64",
+    "player": "reiabeamz",
+    "legend": "Kennen, Heart of the Tempest",
+    "record": "",
+    "deck": "https://riftdecks.com/riftbound-metagame/deck-kennen-heart-of-the-tempest-326738"
+   }
+  ],
+  "id": "rd-18193",
+  "meta": "Radiance"
+ }
+]
