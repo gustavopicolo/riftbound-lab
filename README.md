@@ -2,10 +2,10 @@
 
 App para estudar Riftbound:
 
-- **Analisador de partidas**: cole o log de uma partida (do RiftAtlas ou escrito à mão) e o Claude aponta os turnos decisivos, linhas melhores e lições. Cada pessoa tem um diário privado de partidas e pode ver os próprios erros recorrentes.
+- **Analisador de partidas**: cole o log de uma partida (do RiftAtlas ou escrito à mão) e o site monta um pedido de análise pronto para colar no claude.ai. A resposta volta para o site, fica formatada e pode ser salva num diário privado. Com duas ou mais partidas salvas, o site monta um pedido para achar os erros recorrentes. Não usa chave de API: cada pessoa usa a própria conta do Claude.
 - **Jogadores e decks**: escolha uma lenda e veja quem fez boas campanhas com ela nos torneios do meta atual, com link da lista e atalhos para vídeos.
 
-Stack: Next.js (App Router) na Vercel, Supabase (login por e-mail e diário de partidas), API da Anthropic (análises).
+Stack: Next.js (App Router) na Vercel e Supabase (login por e-mail e diário de partidas).
 
 ## Configuração (uma vez)
 
@@ -15,17 +15,11 @@ Stack: Next.js (App Router) na Vercel, Supabase (login por e-mail e diário de p
 3. Em **Authentication → URL Configuration**, coloque a URL do site da Vercel em *Site URL* (ex.: `https://riftbound-lab.vercel.app`).
 4. Em **Project Settings → API**, copie a *Project URL* e a *anon public key*.
 
-### 2. Anthropic
-1. Em console.anthropic.com, crie uma chave de API.
-2. Defina um limite de gasto mensal no console, como proteção.
-
-### 3. Vercel
+### 2. Vercel
 1. **Add New → Project** e importe este repositório do GitHub.
 2. Em **Environment Variables**, cadastre:
-   - `ANTHROPIC_API_KEY`
    - `NEXT_PUBLIC_SUPABASE_URL`
    - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-   - opcionais: `ANTHROPIC_MODEL` (padrão `claude-sonnet-5-5`), `DAILY_ANALYSIS_LIMIT` (padrão 30 por usuário/dia)
 3. **Deploy**. A partir daqui, cada push na branch `main` publica sozinho.
 
 ## Como o projeto está organizado
@@ -33,8 +27,7 @@ Stack: Next.js (App Router) na Vercel, Supabase (login por e-mail e diário de p
 | Caminho | O que é |
 |---|---|
 | `app/App.js` | Interface (abas, analisador, buscador) |
-| `app/api/analyze/route.js` | Rota que chama a API da Anthropic. Exige login e aplica limite diário |
-| `lib/prompts.js` | Instruções enviadas ao Claude |
+| `lib/prompts.js` | Pedidos de análise que o site monta para colar no Claude |
 | `data/tournaments.json` | Resultados de torneios (fonte: riftdecks.com) |
 | `scripts/merge-tournaments.mjs` | Junta torneios novos ao arquivo de dados |
 | `supabase/schema.sql` | Tabela do diário e regras de acesso (cada usuário só vê as próprias partidas) |

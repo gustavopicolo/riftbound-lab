@@ -3,6 +3,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { supabase } from "@/lib/supabase";
 import { md, legendShort, lessonsOf, firstLesson, safeUrl, yt, tw } from "@/lib/util";
 import { EXAMPLE_LOG } from "@/lib/example";
+import { buildAnalysisPrompt, buildPatternsPrompt } from "@/lib/prompts";
 
 const VIEWS = ["analisador", "buscador"];
 
@@ -81,7 +82,7 @@ function AuthBox({ session }) {
   };
   return (
     <form className="auth" onSubmit={send}>
-      <label htmlFor="login-email" style={{ margin: 0 }}>Entre para analisar e salvar partidas:</label>
+      <label htmlFor="login-email" style={{ margin: 0 }}>Entre para salvar partidas no diário:</label>
       <input id="login-email" type="text" inputMode="email" placeholder="seu@email.com" value={email} onChange={(e) => setEmail(e.target.value)} />
       <button className="btn small" type="submit">Receber link</button>
       {msg && <span>{msg}</span>}
@@ -90,6 +91,13 @@ function AuthBox({ session }) {
 }
 
 /* ---------------- Analisador ---------------- */
+// Sem chave de API: o site monta o pedido, a pessoa cola no claude.ai e traz a resposta de volta.
+const CLAUDE_URL = "https://claude.ai/new";
+
+async function copyText(text) {
+  try { await navigator.clipboard.writeText(text); return true; } catch { return false; }
+}
+
 function Analyzer({ session, legends }) {
   const [my, setMy] = useState("");
   const [opp, setOpp] = useState("");
@@ -97,13 +105,13 @@ function Analyzer({ session, legends }) {
   const [format, setFormat] = useState("bo1");
   const [log, setLog] = useState("");
   const [notes, setNotes] = useState("");
-  const [out, setOut] = useState({ label: "Análise", text: "", state: "empty", error: "" });
-  const [last, setLast] = useState(null);
-  const [saveState, setSaveState] = useState("hidden");
+  const [prompt, setPrompt] = useState("");
+  const [copied, setCopied] = useState("");
+  const [answer, setAnswer] = useState("");
+  const [viewing, setViewing] = useState(null);
+  const [saveState, setSaveState] = useState("idle");
   const [matches, setMatches] = useState([]);
-  const ctl = useRef(null);
-
-  const token = session?.access_token;
+  const promptRef = useRef(null);
 
   useEffect(() => {
     if (!supabase || !session) { setMatches([]); return; }
@@ -111,78 +119,52 @@ function Analyzer({ session, legends }) {
       .then(({ data }) => setMatches(data || []));
   }, [session]);
 
-  const stream = async (payload, label, onDone) => {
-    if (!token) { setOut({ label, text: "", state: "error", error: "Entre na sua conta para usar a análise." }); return; }
-    ctl.current = new AbortController();
-    setOut({ label, text: "", state: "thinking", error: "" });
-    try {
-      const res = await fetch("/api/analyze", {
-        method: "POST",
-        headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
-        body: JSON.stringify(payload),
-        signal: ctl.current.signal,
-      });
-      if (!res.ok) {
-        const j = await res.json().catch(() => ({}));
-        setOut({ label, text: "", state: "error", error: j.error || "A análise falhou. Tente de novo." });
-        return;
-      }
-      const reader = res.body.getReader();
-      const dec = new TextDecoder();
-      let text = "";
-      for (;;) {
-        const { value, done } = await reader.read();
-        if (done) break;
-        text += dec.decode(value, { stream: true });
-        setOut({ label, text, state: "streaming", error: "" });
-      }
-      setOut({ label, text, state: "done", error: "" });
-      onDone?.(text);
-    } catch (e) {
-      if (e.name !== "AbortError") setOut((o) => ({ ...o, state: "error", error: "A conexão caiu. Tente de novo." }));
-      else setOut((o) => ({ ...o, state: "done" }));
-    }
-  };
+  const form = { myLegend: my, oppLegend: opp, result, format, log, notes };
 
-  const analyze = () => {
-    if (!log.trim()) { setOut({ label: "Análise", text: "", state: "error", error: "Cole o log da partida antes de analisar." }); return; }
-    const f = { myLegend: my, oppLegend: opp, result, format, log, notes };
-    setSaveState("hidden");
-    stream({ kind: "match", ...f }, "Análise", (text) => { setLast({ ...f, analysis: text }); setSaveState("ready"); });
+  const prepare = async (kind) => {
+    let p;
+    if (kind === "patterns") {
+      p = buildPatternsPrompt(matches.slice(0, 30).map((m) => ({ myLegend: m.my_legend, oppLegend: m.opp_legend, result: m.result, lessons: lessonsOf(m.analysis) })));
+    } else {
+      if (!log.trim()) { setCopied("Cole o log da partida antes."); return; }
+      p = buildAnalysisPrompt(form);
+    }
+    setPrompt(p);
+    setViewing(null);
+    setAnswer("");
+    setSaveState(kind === "patterns" ? "patterns" : "idle");
+    const ok = await copyText(p);
+    setCopied(ok ? "Pedido copiado. Abra o Claude, cole e envie." : "Não deu para copiar automaticamente. Selecione o texto abaixo e copie.");
+    if (!ok) setTimeout(() => promptRef.current?.select(), 0);
   };
 
   const save = async () => {
-    if (!last || !supabase) return;
+    if (!supabase || !session || !answer.trim()) return;
     setSaveState("saving");
     const { data, error } = await supabase.from("matches").insert({
-      my_legend: last.myLegend, opp_legend: last.oppLegend, result: last.result, format: last.format,
-      log: last.log.slice(0, 60000), notes: last.notes, analysis: last.analysis,
+      my_legend: my, opp_legend: opp, result, format,
+      log: log.slice(0, 60000), notes, analysis: answer.slice(0, 60000),
     }).select().single();
     if (error) { setSaveState("error"); return; }
     setMatches((m) => [data, ...m]);
     setSaveState("saved");
   };
 
-  const patterns = () => {
-    const items = matches.slice(0, 30).map((m) => ({ myLegend: m.my_legend, oppLegend: m.opp_legend, result: m.result, lessons: lessonsOf(m.analysis) }));
-    setSaveState("hidden");
-    stream({ kind: "patterns", matches: items }, "Seus padrões");
-  };
-
   const openMatch = (m) => {
     setMy(m.my_legend || ""); setOpp(m.opp_legend || ""); setResult(m.result || "L"); setFormat(m.format || "bo1");
     setLog(m.log || ""); setNotes(m.notes || "");
-    setOut({ label: "Partida salva · " + new Date(m.created_at).toLocaleDateString("pt-BR"), text: m.analysis || "", state: "done", error: "" });
-    setSaveState("hidden");
+    setPrompt(""); setAnswer(""); setCopied("");
+    setViewing(m);
   };
 
-  const busy = out.state === "thinking" || out.state === "streaming";
+  const shown = viewing ? viewing.analysis : answer;
+  const label = viewing ? "Partida salva · " + new Date(viewing.created_at).toLocaleDateString("pt-BR") : saveState === "patterns" ? "Seus padrões" : "Análise";
 
   return (
     <div className="grid">
       <div className="panel">
         <h2>Nova partida</h2>
-        <p className="sub">Cole o log da partida do RiftAtlas (ou escreva os turnos do seu jeito). O Claude aponta os momentos decisivos e linhas melhores.</p>
+        <p className="sub">Cole o log da partida do RiftAtlas (ou escreva os turnos do seu jeito). O site monta o pedido de análise para você colar no Claude.</p>
         <div className="fields">
           <div className="row">
             <div className="f"><label htmlFor="my-legend">Sua lenda</label><input type="text" id="my-legend" list="legend-list" placeholder="ex.: Diana" value={my} onChange={(e) => setMy(e.target.value)} /></div>
@@ -190,53 +172,64 @@ function Analyzer({ session, legends }) {
           </div>
           <datalist id="legend-list">{legends.map((l) => <option key={l} value={l} />)}</datalist>
           <div className="row">
-            <div><label>Resultado</label>
-              <Seg value={result} onChange={setResult} options={[["W", "Vitória"], ["L", "Derrota"]]} />
-            </div>
-            <div><label>Formato</label>
-              <Seg value={format} onChange={setFormat} options={[["bo1", "Bo1"], ["bo3", "Bo3"]]} />
-            </div>
+            <div><label>Resultado</label><Seg value={result} onChange={setResult} options={[["W", "Vitória"], ["L", "Derrota"]]} /></div>
+            <div><label>Formato</label><Seg value={format} onChange={setFormat} options={[["bo1", "Bo1"], ["bo3", "Bo3"]]} /></div>
           </div>
           <div>
             <label htmlFor="log">Log da partida</label>
-            <textarea id="log" rows={13} spellCheck={false} value={log} onChange={(e) => setLog(e.target.value)} />
+            <textarea id="log" rows={12} spellCheck={false} value={log} onChange={(e) => setLog(e.target.value)} />
           </div>
           <div>
             <label htmlFor="notes">O que você quer revisar? <span className="note">(opcional)</span></label>
             <input type="text" id="notes" placeholder="ex.: perdi o controle do campo no turno 5, não sei onde errei" value={notes} onChange={(e) => setNotes(e.target.value)} />
           </div>
           <div className="actions">
-            <button className="btn primary" type="button" onClick={analyze} disabled={busy}>Analisar partida</button>
-            {busy && <button className="btn" type="button" onClick={() => ctl.current?.abort()}>Parar</button>}
-            <button className="btn" type="button" onClick={() => { setMy("Diana"); setOpp("Riven"); setResult("L"); setFormat("bo1"); setLog(EXAMPLE_LOG); setNotes("Perdi o controle dos campos no T3–T4. Onde errei?"); }}>Carregar exemplo</button>
-            <button className="btn" type="button" onClick={() => { setMy(""); setOpp(""); setLog(""); setNotes(""); }}>Limpar</button>
+            <button className="btn primary" type="button" onClick={() => prepare("match")}>1. Copiar pedido de análise</button>
+            <a className="btn" href={CLAUDE_URL} target="_blank" rel="noopener noreferrer">2. Abrir o Claude</a>
           </div>
+          <div className="actions">
+            <button className="btn small" type="button" onClick={() => { setMy("Diana"); setOpp("Riven"); setResult("L"); setFormat("bo1"); setLog(EXAMPLE_LOG); setNotes("Perdi o controle dos campos no T3–T4. Onde errei?"); }}>Carregar exemplo</button>
+            <button className="btn small" type="button" onClick={() => { setMy(""); setOpp(""); setLog(""); setNotes(""); setPrompt(""); setAnswer(""); setCopied(""); setViewing(null); }}>Limpar</button>
+          </div>
+          {copied && <p className="note">{copied}</p>}
+          {prompt && (
+            <details open={copied.startsWith("Não")}>
+              <summary className="note" style={{ cursor: "pointer" }}>Ver o pedido copiado</summary>
+              <textarea ref={promptRef} readOnly rows={6} value={prompt} style={{ marginTop: 6 }} />
+            </details>
+          )}
           <AuthBox session={session} />
         </div>
       </div>
 
       <div className="panel out">
         <div className="actions" style={{ justifyContent: "space-between", marginBottom: 10 }}>
-          <span className="eyebrow">{out.label}</span>
-          {saveState !== "hidden" && session && (
+          <span className="eyebrow">{label}</span>
+          {!viewing && answer.trim() && saveState !== "patterns" && session && (
             <button className="btn small" type="button" onClick={save} disabled={saveState === "saving" || saveState === "saved"}>
               {saveState === "saved" ? "Salvo" : saveState === "error" ? "Não salvou, tente de novo" : "Salvar no diário"}
             </button>
           )}
         </div>
-        {out.state === "empty" && <div className="empty">A análise aparece aqui. Use <strong>Carregar exemplo</strong> para ver como funciona com uma partida fictícia.</div>}
-        {out.state === "thinking" && <p className="thinking">Analisando…</p>}
-        {out.text && <div className="md" dangerouslySetInnerHTML={{ __html: md(out.text) }} />}
-        {out.error && <div className="empty">{out.error}</div>}
+        {!viewing && (
+          <div style={{ marginBottom: 12 }}>
+            <label htmlFor="answer">3. Cole aqui a resposta do Claude</label>
+            <textarea id="answer" rows={5} placeholder="Depois que o Claude responder, copie a resposta inteira e cole aqui." value={answer} onChange={(e) => { setAnswer(e.target.value); if (saveState === "saved" || saveState === "error") setSaveState("idle"); }} />
+            {answer.trim() && !session && <p className="note">Entre na sua conta para salvar esta análise no diário.</p>}
+          </div>
+        )}
+        {shown?.trim()
+          ? <div className="md" dangerouslySetInnerHTML={{ __html: md(shown) }} />
+          : <div className="empty">A análise aparece aqui formatada depois que você colar a resposta. Use <strong>Carregar exemplo</strong> para testar o fluxo.</div>}
 
         <div className="divider" />
         <div className="actions" style={{ justifyContent: "space-between" }}>
           <span className="eyebrow">Diário de partidas</span>
-          <button className="btn small" type="button" onClick={patterns} disabled={matches.length < 2 || busy}>Ver meus padrões</button>
+          <button className="btn small" type="button" onClick={() => prepare("patterns")} disabled={matches.length < 2}>Copiar pedido de padrões</button>
         </div>
         <div className="hist">
           {!session && <p className="note">Entre na sua conta para salvar partidas. Só você vê o seu diário.</p>}
-          {session && !matches.length && <p className="note">Nenhuma partida salva ainda. Depois de uma análise, use <strong>Salvar no diário</strong>.</p>}
+          {session && !matches.length && <p className="note">Nenhuma partida salva ainda. Depois de colar uma análise, use <strong>Salvar no diário</strong>.</p>}
           {matches.map((m) => (
             <button key={m.id} type="button" onClick={() => openMatch(m)}>
               <span className={`res ${m.result === "W" ? "W" : "L"}`}>{m.result === "W" ? "V" : "D"}</span>
