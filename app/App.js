@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useMemo, useRef, useState } from "react";
-import { supabase } from "@/lib/supabase";
+import { supabase, supabaseProblem } from "@/lib/supabase";
 import { md, legendShort, lessonsOf, firstLesson, safeUrl, yt, tw } from "@/lib/util";
 import { EXAMPLE_LOG } from "@/lib/example";
 import { buildAnalysisPrompt, buildPatternsPrompt } from "@/lib/prompts";
@@ -64,7 +64,7 @@ function useSession() {
 function AuthBox({ session }) {
   const [email, setEmail] = useState("");
   const [msg, setMsg] = useState("");
-  if (!supabase) return <p className="note">Login indisponível: o Supabase ainda não foi configurado.</p>;
+  if (!supabase) return <p className="note">{supabaseProblem}</p>;
   if (session) {
     return (
       <div className="auth">
